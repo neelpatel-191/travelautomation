@@ -1,1 +1,1 @@
-<<?php session_decode(data) ?>
+<<?php session_decode(data1) ?>
